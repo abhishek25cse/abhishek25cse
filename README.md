@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in developing scaleable and optimal solution.
+- 👀 I’m interested in developing scalable and optimal solution.
 - 🌱 I’m currently learning python, REACT, ANGULAR, and the list goes on ..
 - 💞️ I’m looking to collaborate to improve and optimise solution.
 - 📫 Reach me at abhishek25cse@gmail.com
